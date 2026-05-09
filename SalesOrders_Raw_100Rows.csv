@@ -1,0 +1,101 @@
+OrderID,OrderDate,ShipDate,Region,Country,CustomerName,Product,Category,Quantity,UnitPrice,Sales,Profit
+SO001,04-13-2025,04-18-2025,apac,Singapore,Global Traders,Desk,Electornics,8,300,1200,180.0
+SO002,invalid_date,,EMEA,France,Aus Corp,Keyboard,Electronics,5,100,500,125.0
+SO003,22/09/2025,29/09/2025,LATAM,IN,Santiago Shop,Chair,Electornics,10,50,,450.0
+SO004,08-06-2025,08-12-2025,Asia Pacific,IN,Bangalore Tech,Chair,Furniture,8,300,1200,360.0
+SO005,03/06/2025,03/10/2025,EMEA,France,Acme Corp,Chair,Furniture,1,250,250,62.5
+SO006,03-03-2025,03-09-2025,EMEA,France,Acme Corp,Keyboard,Electronics,10,300,800,80.0
+SO007,2025/06/28,2025/07/03,LATAM,India ,Paris Solutions,Desk,Office Supplies,3,40,1200,180.0
+SO008,05-14-2025,05-20-2025,Asia Pacific,Australia,Aus Corp,Desk,Office Supplies,20,$40,250,-50.0
+SO009,17/05/2025,,LATAM,Chile,Singapore Ltd,Chair,Furniture,10 units,300,,75.0
+SO010,23/04/2025,,apac,India,Acme Corp,Keyboard,Electronics,8,1200,800,160.0
+SO011,11-21-2025,11-28-2025,APAC,India,Rio Mart,Tablet,Electronics,3,100,800,200.0
+SO012,2025/05/08,2025/05/12,APAC,India,Tech Solutions,Desk,Office Supplies,2,25,1200,120.0
+SO013,05/20/2025,05/21/2025,APAC,Australia,Global Traders,Keyboard,Electronics,10,1200,3000,750.0
+SO014,invalid_date,04/11/2025,North America,Mexico,Santiago Shop,Desk Chair,Furniture,5,300,800,80.0
+SO015,22/01/2025,25/01/2025,Asia Pacific,Australia,Mexico Retail,Mouse,Electronics,1,1200,800,-200.0
+SO016,01-17-2025,01-22-2025,Asia Pacific,Australia,Rio Mart,Desk Chair,Furniture,8,250,2400,720.0
+SO017,11-19-2025,11-25-2025,North America,Mexico,London Traders,Chair,Furniture,20,250,250,25.0
+SO018,02/08/2025,02/10/2025,APAC,India ,Rio Mart,Printer,Electornics,5,600,1200,240.0
+SO019,11-18-2025,,APAC,Singapore,,Tablet,Electronics,10,50,2400,240.0
+SO020,04/18/2025,04/22/2025,Asia Pacific,Australia,Paris Solutions,Chair,Furniture,8,200,800,200.0
+SO021,27/04/2025,02/05/2025,APAC,Singapore,Aus Corp,Laptop,Electronics,N/A,1200,2400,720.0
+SO022,2025/05/24,,Asia Pacific,IN,Tech GmbH,Laptop,Electronics,10,200,1200,120.0
+SO023,07/09/2025,11/09/2025,North America,Canada,Global Traders,Printer,Electronics,8,1200,1200,240.0
+SO024,06-12-2025,06-15-2025,apac,IN,Global Traders,Laptop,Electronics,2,300,2400,480.0
+SO025,03-31-2025,04-06-2025,North America,Mexico,Bangalore Tech,Desk,Office Supplies,8,75,2400,240.0
+SO026,2025/07/11,2025/07/13,APAC,India ,Rio Mart,Laptop,Electronics,20,25,250,75.0
+SO027,2025/08/21,2025/08/27,LATAM,Chile,Aus Corp,Phone,Electronics,5,100,250,75.0
+SO028,11/08/2025,14/08/2025,EMEA,Germany,Rio Mart,Desk Chair,Furniture,5,250,250,37.5
+SO029,01/29/2025,02/03/2025,APAC,IN,Acme Corp,Desk,Office Supplies,5,40,800,120.0
+SO030,06/22/2025,06/26/2025,LATAM,India ,Bangalore Tech,Desk,Office Supplies,8,$75,,900.0
+SO031,invalid_date,06/15/2025,apac,Australia,Rio Mart,Phone,Electronics,3,50,250,75.0
+SO032,12/01/2025,16/01/2025,LATAM,India ,London Traders,Printer,Electronics,2,200,1200,240.0
+SO033,07/31/2025,08/06/2025,EMEA,India ,Singapore Ltd,Mouse,Electronics,8,50,2400,-720.0
+SO034,06/03/2025,11/03/2025,North America,USA,Singapore Ltd,Laptop,Electronics,,25,250,75.0
+SO035,01/23/2025,01/26/2025,APAC,India ,,Desk Chair,Furniture,3,200,,125.0
+SO036,07/09/2025,09/09/2025,LATAM,Brazil,Singapore Ltd,Phone,Electronics,3,1200,2400,360.0
+SO037,07-11-2025,07-13-2025,Asia Pacific,Australia,Global Traders,Mouse,Electronics,10,800,250,75.0
+SO038,11/26/2025,11/28/2025,Asia Pacific,India ,Tech Solutions,Keyboard,Electronics,20,800,1200,120.0
+SO039,04-03-2025,04-06-2025,apac,India ,Tech Solutions,Printer,Electronics,8,300,,37.5
+SO040,2025/09/06,,Asia Pacific,Australia,Santiago Shop,Laptop,Electronics,,300,3000,450.0
+SO041,invalid_date,07/01/2026,EMEA,France,Rio Mart,Mouse,Electronics,3,1200,250,25.0
+SO042,10/27/2025,10/31/2025,North America,Mexico,Bangalore Tech,Mouse,Electronics,20,800,500,50.0
+SO043,16/11/2025,22/11/2025,apac,India,Acme Corp,Phone,Electronics,10,1200 USD,250,50.0
+SO044,02-05-2025,02-09-2025,EMEA,IN,Singapore Ltd,Tablet,Electronics,10,25,800,240.0
+SO045,04-28-2025,04-29-2025,LATAM,Brazil,Aus Corp,Tablet,Electronics,3,300,500,-150.0
+SO046,01-13-2025,01-18-2025,APAC,India,Bangalore Tech,Chair,Furniture,3,150,3000,900.0
+SO047,invalid_date,2025/03/23,LATAM,India ,London Traders,Desk Chair,Furniture,5,150,500,125.0
+SO048,10-23-2025,10-26-2025,apac,India,Paris Solutions,Laptop,Electronics,1,50,800,160.0
+SO049,2025/01/15,2025/01/22,EMEA,IN,Santiago Shop,Tablet,Electronics,8,800,500,150.0
+SO050,10/21/2025,10/25/2025,apac,India ,Santiago Shop,Monitor,Electronics,,100,2400,600.0
+SO051,07/02/2025,13/02/2025,EMEA,IN,Aus Corp,Chair,Furniture,1,$300,2400,360.0
+SO052,02/20/2025,02/23/2025,APAC,India ,Tech GmbH,Printer,Electronics,10,25,2400,240.0
+SO053,11/09/2025,,LATAM,Brazil,Aus Corp,Tablet,Electronics,2,,800,80.0
+SO054,12/10/2025,12/16/2025,North America,IN,Tech Solutions,Phone,Electronics,1,$25,250,25.0
+SO055,30/07/2025,04/08/2025,apac,Australia,Tech Solutions,Laptop,Electronics,20,600,800,200.0
+SO056,2025/12/25,2025/12/31,North America,IN,Acme Corp,Desk,Office Supplies,2,10,800,240.0
+SO057,2025/08/17,2025/08/19,EMEA,France,Maple Inc,Monitor,Electronics,8,800,250,-75.0
+SO058,02/05/2025,02/12/2025,apac,IN,Mexico Retail,Printer,Electronics,3,200,3000,300.0
+SO059,12-08-2025,12-11-2025,Asia Pacific,India,Tech Solutions,Keyboard,Electronics,1,,3000,750.0
+SO060,2025/04/08,2025/04/13,North America,IN,Bangalore Tech,Tablet,Electornics,8,$300,800,80.0
+SO061,04-08-2025,04-10-2025,apac,India,Aus Corp,Phone,Electronics,2,50,2400,600.0
+SO062,09-24-2025,09-27-2025,EMEA,Germany,Paris Solutions,Chair,Furniture,8,300,1200,240.0
+SO063,20/07/2025,21/07/2025,APAC,India,Santiago Shop,Chair,Furniture,10 units,300,500,125.0
+SO064,11/01/2025,11/02/2025,LATAM,Chile,London Traders,Phone,Electronics,8,600,800,-120.0
+SO065,15/10/2025,17/10/2025,apac,Singapore,Paris Solutions,Phone,Electronics,3,50,3000,750.0
+SO066,04/13/2025,04/17/2025,LATAM,India ,Tech Solutions,Keyboard,Electronics,2,200,2400,240.0
+SO067,18/04/2025,20/04/2025,Asia Pacific,Australia,Paris Solutions,Mouse,Electronics,10 units,200,2400,600.0
+SO068,08/27/2025,09/03/2025,LATAM,India ,Acme Corp,Laptop,Electronics,10,50,250,75.0
+SO069,11/01/2025,11/03/2025,apac,India ,Tech GmbH,Tablet,Electronics,20,100,1200,300.0
+SO070,04/03/2025,06/03/2025,EMEA,Germany,Bangalore Tech,Printer,Electornics,2,600,250,25.0
+SO071,2025/03/02,2025/03/08,APAC,Australia,Global Traders,Tablet,Electronics,8,$25,800,160.0
+SO072,invalid_date,08-15-2025,apac,Australia,Mexico Retail,Mouse,Electronics,,$300,1200,360.0
+SO073,10-28-2025,10-31-2025,North America,Mexico,Santiago Shop,Laptop,Electronics,3,200,2400,480.0
+SO074,2025/12/22,2025/12/27,EMEA,India ,Aus Corp,Desk Chair,Electornics,,800 USD,,900.0
+SO075,08/12/2025,08/13/2025,North America,IN,London Traders,Keyboard,Electronics,3,50,1200,-360.0
+SO076,invalid_date,12-19-2025,LATAM,Brazil,Aus Corp,Tablet,Electronics,10 units,50,1200,240.0
+SO077,invalid_date,01/14/2025,EMEA,France,Aus Corp,Desk,Office Supplies,10,40,2400,720.0
+SO078,24/06/2025,27/06/2025,APAC,IN,London Traders,Phone,Electronics,8,600,250,37.5
+SO079,06-12-2025,06-14-2025,LATAM,Chile,London Traders,Desk Chair,Furniture,8,$200,1200,360.0
+SO080,2025/02/15,,APAC,IN,Maple Inc,Monitor,Electronics,1,600,800,240.0
+SO081,16/11/2025,19/11/2025,apac,India,Acme Corp,Tablet,Electronics,3,1200,3000,750.0
+SO082,invalid_date,08-31-2025,apac,India,Santiago Shop,Monitor,Electronics,20,800,500,75.0
+SO083,2025/11/13,2025/11/14,APAC,Singapore,Rio Mart,Chair,Furniture,5,250 USD,,75.0
+SO084,07/07/2025,11/07/2025,LATAM,India ,Bangalore Tech,Keyboard,Electronics,20,300,800,200.0
+SO085,05/30/2025,06/02/2025,LATAM,Argentina,Global Traders,Keyboard,Electronics,N/A,800,500,150.0
+SO086,08-08-2025,08-10-2025,APAC,Australia,Bangalore Tech,Monitor,Electornics,2,200,500,100.0
+SO087,2025/09/25,2025/10/02,APAC,Australia,Aus Corp,Chair,Furniture,10,200,2400,720.0
+SO088,21/04/2025,23/04/2025,Asia Pacific,India,Mexico Retail,Desk Chair,Furniture,2,250,1200,360.0
+SO089,2025/01/10,2025/01/15,North America,IN,,Desk Chair,Furniture,5,150,1200,120.0
+SO090,07/23/2025,07/27/2025,Asia Pacific,IN,Mexico Retail,Monitor,Electronics,2,300,800,240.0
+SO091,28/06/2025,30/06/2025,EMEA,France,,Mouse,Electronics,8,800,1200,300.0
+SO092,11-04-2025,11-06-2025,apac,India,Paris Solutions,Chair,Furniture,10,250,500,100.0
+SO093,25/05/2025,29/05/2025,EMEA,UK,,Monitor,Electronics,3,600,3000,750.0
+SO094,03/04/2025,03/09/2025,APAC,India ,Santiago Shop,Desk Chair,Furniture,2,300,500,150.0
+SO095,11/27/2025,11/28/2025,apac,India,Rio Mart,Printer,Electronics,8,300,800,-200.0
+SO096,20/04/2025,23/04/2025,apac,Singapore,London Traders,Mouse,Electronics,8,25,1200,300.0
+SO097,22/11/2025,27/11/2025,apac,Australia,Paris Solutions,Phone,Electronics,1,100,800,120.0
+SO098,21/02/2025,24/02/2025,North America,IN,,Mouse,Electronics,8,25,500,150.0
+SO099,29/08/2025,02/09/2025,LATAM,Brazil,Rio Mart,Chair,Furniture,20,200,250,37.5
+SO100,05/01/2025,05/02/2025,North America,Mexico,Tech GmbH,Monitor,Electronics,3,800,500,50.0
